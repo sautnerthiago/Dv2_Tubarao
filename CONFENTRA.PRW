@@ -11,7 +11,7 @@
 description 
 Ordem de Separação Tubarão
 @type function
-@version  
+@version 1.1
 @author Victor Ramon
 @since 27/05/2025
 @return variant, return_description
